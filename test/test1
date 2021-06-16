@@ -1,0 +1,33 @@
+Var a, b, c
+Begin
+a := 15
+c := -10
+b := a
+b := (a + c) * a / (c - 5)
+
+/* gkldfrskglsdfkg */
+
+/* hsfdgjasdhgjsdh
+fkgsdhfkgjfdhk
+dkfgsjdg */
+
+c := a - b
+
+a := 2 * b - c * 4
+
+IF (a > 10)
+Begin
+b := a + c
+End
+
+IF (a < 10)
+Begin
+b := a - c
+c := a
+End
+ELSE
+Begin
+c := b
+End
+
+End
