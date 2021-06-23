@@ -29,6 +29,8 @@
 
 ### Сборка и запуск:
 
+В работе используется генератор лексических анализаторов JFlex для Java и GNU Bison.
+
 ```
 bison SyntaxAnalyser.y
 jflex LexicalAnalyser.flex
